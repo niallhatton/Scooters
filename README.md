@@ -22,3 +22,6 @@ hosted in Azure cloud on a custom VM I manage.
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
 `python3 -m http.server`
+
+## Credits
+I had some advice from the Slack group and used Love Running project as a template and guide for my design
