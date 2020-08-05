@@ -1,3 +1,10 @@
+a:hover {
+    color: #8cc63f;
+}
+
+a {
+    color: #515151;
+}
 /* Menu */
 #menu{
     font-size: 110%;
@@ -11,13 +18,21 @@
 }
 
 #logo, #menu{
-    line-height: 75px;
+    line-height: 85px;
 }
 
 #logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
+    padding-bottom: 10px;
+}
+ 
+#logo-cover{
+        width: 50px;
+    height: 50px;
+    background: url("../images/logo.png") no-repeat center center;
+    height:100%;
 }
 
 /* Hero */
@@ -30,7 +45,7 @@
 }
 
 #hero-outer{
-    height:600px;
+    height:300px;
     width: 100%;
     overflow:hidden;
     position: relative;
