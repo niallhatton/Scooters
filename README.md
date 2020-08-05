@@ -13,6 +13,10 @@ I own full rights to these graphics.
 
 The hero image was a stock photo I purchased for this project from Adobe Stock.
 
+## Hosting/Domain
+The domain zoomscooter.co.uk was purchased for this project and the site is 
+hosted in Azure cloud on a custom VM I manage.
+
 ## Gitpod Testing
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
