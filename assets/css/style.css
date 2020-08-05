@@ -1,0 +1,57 @@
+/* Menu */
+#menu{
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+}
+
+#logo, #menu{
+    line-height: 75px;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+}
+
+/* Hero */
+#hero-image{
+    height:300px;
+    width: 100%;
+    background: url("../images/scooterheroedit.jpg") no-repeat center center;
+    background-size: cover;
+
+}
+
+#hero-outer{
+    height:600px;
+    width: 100%;
+    overflow:hidden;
+    position: relative;
+}
+
+/* Footer */
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks li {
+    display:inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
