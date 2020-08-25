@@ -29,7 +29,7 @@ a {
 }
  
 #logo-cover{
-        width: 50px;
+    width: 50px;
     height: 50px;
     background: url("../images/logo.png") no-repeat center center;
     height:100%;
@@ -51,6 +51,11 @@ a {
     position: relative;
 }
 
+/* Cities */
+.cities {
+    
+}
+
 /* Footer */
 footer{
     height: 150px;
@@ -69,4 +74,10 @@ footer{
     margin: 1%;
     padding: 5%;
     color: #777777;
+}
+
+#telephone {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 20px
 }
