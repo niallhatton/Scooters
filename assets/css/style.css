@@ -10,6 +10,21 @@ h2 {
     padding: 10px;
 }
 
+.block-divider-short {
+    width: 35px;
+}
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+}
+
+.block-divider-white {
+    background-color: white;
+}
+
 /* Containers */
 .container-wrapper-green {
     background-color: #8cc63f;
@@ -56,6 +71,12 @@ h2 {
 .function {
     text-align: center;
     margin-bottom: 40px;
+}
+
+.function i {
+    margin-bottom: 20px;
+    font-size: 80px;
+    display: block;
 }
 
 /* Hero */
