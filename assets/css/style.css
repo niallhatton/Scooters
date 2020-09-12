@@ -46,6 +46,13 @@ h2 {
     height:100%;
 }
 
+/* Functions */
+
+.function {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
 /* Hero */
 #hero-image{
     height:300px;
