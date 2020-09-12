@@ -5,6 +5,10 @@ a:hover {
 a {
     color: #515151;
 }
+
+h2 {
+    padding: 10px;
+}
 /* Menu */
 #menu{
     font-size: 110%;
