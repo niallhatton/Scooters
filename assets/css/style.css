@@ -1,9 +1,11 @@
 a:hover {
     color: #8cc63f;
+    text-decoration: none;
 }
 
 a {
     color: #515151;
+    text-decoration: none;
 }
 
 h2 {
