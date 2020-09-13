@@ -30,8 +30,13 @@ h2 {
 
 /* Introduction */
 
-#intro-text {
+#intro-text, #intro-text-tagline {
     text-align: center;
+}
+
+#intro-text-tagline {
+    margin-top: 20px;
+    font-weight: bold;
 }
 
 /* Containers */
