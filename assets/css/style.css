@@ -81,6 +81,10 @@ h2 {
   line-height: 85px;
 }
 
+#menu a.active {
+    border-bottom: 3px solid #8cc63f;
+}
+
 #logo {
   float: left;
   font-size: 280%;
