@@ -6,6 +6,7 @@ adjust the images on home page intro...maybe
 add elh it limted to very bottom in footer
 Responsiveness
 
+code validation
 Add Favicon, explain ref in readme
 Add iphone/ipad icons, explain ref in readme
 google analytics code, explain ref in readme
