@@ -8,7 +8,7 @@ link on logo
 accessbilitia aria code
 alt tags
 image links for adobe stock
-upload wireframs into github
+upload wireframs into github ref in readme location
 code tidy up and review bad code
 last beutify code (alt shift F)
 Readme file readme file
@@ -16,3 +16,4 @@ Review exam critera, ref each on readme
 Review other students projects
 Deploy to azure and github, explain ref in readme
 remove landing page
+0800 number , explain ref in readme
