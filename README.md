@@ -26,8 +26,13 @@ section dedicated to statistics did not make sense. I did consider using "fake" 
 site when that time comes.
 
 ## Hosting/Domain
-The domain www.zoomscooter.co.uk was purchased for this project and the site is 
-hosted in Azure cloud on a custom VM I manage. A sub domain dev.zoomscooter.co.uk was used as 
+The domain www.zoomscooter.co.uk was purchased for this project using gandi.net, DNS records are also configured here.
+The site is hosted in Azure cloud on a custom VM I manage. DNS records in Gandi are pointing to the Azure VM.
+
+The Azure VM is running Centos 7 with Webmin/Virtualmin for hosting software custom installed. Webmin allows for a GUI to easily create multiple hosting for each site.
+https://virtualmin.com/ - Open Source Web Hosting and Cloud Control Panels.
+
+A sub domain dev.zoomscooter.co.uk was used as 
 a staging site with the main domain hosting a holding page while development was taken place.
 
 ## Gitpod Testing
