@@ -4,12 +4,11 @@ style contact us page
 adjust font sice on City 1, 2 etc text
 adjust the images on home page intro...maybe
 add elh it limted to very bottom in footer
+Responsiveness
 
 Add Favicon, explain ref in readme
 Add iphone/ipad icons, explain ref in readme
-Responsiveness
 google analytics code, explain ref in readme
-
 link on logo
 accessbilitia aria code
 alt tags
