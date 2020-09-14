@@ -1,2 +1,18 @@
-Add Favicon
-Add iphone/ipad icons
+Add Favicon, explain ref in readme
+Add iphone/ipad icons, explain ref in readme
+Responsiveness
+google analytics code, explain ref in readme
+contact form code, explain ref in readme
+expandable text code, explain ref in readme
+link on logo
+accessbilitia aria code
+alt tags
+image links for adobe stock
+upload wireframs into github
+code tidy up and review bad code
+last beutify code (alt shift F)
+Readme file readme file
+Review exam critera, ref each on readme
+Review other students projects
+Deploy to azure and github, explain ref in readme
+remove landing page
