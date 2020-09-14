@@ -8,7 +8,7 @@ link on logo
 accessbilitia aria code
 alt tags
 image links for adobe stock
-upload wireframs into github ref in readme location
+upload wireframs into github ref in readme locationq
 code tidy up and review bad code
 last beutify code (alt shift F)
 Readme file readme file
