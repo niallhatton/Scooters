@@ -5,6 +5,7 @@ adjust font sice on City 1, 2 etc text
 adjust the images on home page intro...maybe
 add elh it limted to very bottom in footer
 Responsiveness
+code comments
 
 code validation
 Add Favicon, explain ref in readme
