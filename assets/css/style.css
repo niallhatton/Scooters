@@ -143,7 +143,9 @@ h2 {
 }
 
 /* Cities */
-#cities {
+
+
+.cities {
   background: url("../images/scooter-cities.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -152,7 +154,16 @@ h2 {
   overflow: hidden;
 }
 
-#cities div {
+.cities-contact {
+  background: url("../images/scooter-contactus-cities.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+   width: 100%;
+  overflow: hidden;
+}
+
+.cities div {
   color: #fafafa;
   background-color: rgba(0, 0, 0, 0.6);
   width: 24%;
