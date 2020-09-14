@@ -56,6 +56,12 @@ h2 {
 }
 
 .container-wrapper-cities {
+    padding-bottom: 0px;
+}
+
+
+
+.container-wrapper-cities {
     max-width: 100%;
 }
 
@@ -132,14 +138,19 @@ h2 {
     color: #fafafa;
     background-color: rgba(0,0,0, .6);
     width: 24%;
-    height: 300px;
+    height: 200px;
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
     margin: 8px;
     margin-right: 8px;
 }
-    
+
+i.fas.fa-city {
+    font-size: 30px;
+    padding: 22px;
+}
+
 /* Footer */
 footer{
     height: 150px;
