@@ -180,6 +180,12 @@ i.fas.fa-city {
   padding: 22px;
 }
 
+/* Contact us */
+
+.form-control {
+margin: 10px;
+}
+
 /* Footer */
 footer {
   height: 150px;
