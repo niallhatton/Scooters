@@ -1,178 +1,177 @@
 a:hover {
-    color: #8cc63f;
-    text-decoration: none;
+  color: #8cc63f;
+  text-decoration: none;
 }
 
 a {
-    color: #515151;
-    text-decoration: none;
+  color: #515151;
+  text-decoration: none;
 }
 
 h2 {
-    padding: 10px;
+  padding: 10px;
 }
 
 .block-divider-short {
-    width: 35px;
+  width: 35px;
 }
 
 .block-divider {
-    width: 75px;
-    height: 5px;
-    border: 0;
-    background-color: #444;
-    margin-bottom: 2rem;
+  width: 75px;
+  height: 5px;
+  border: 0;
+  background-color: #444;
+  margin-bottom: 2rem;
 }
 
 .block-divider-white {
-    background-color: white;
+  background-color: white;
 }
 
 /* Introduction */
 
 #intro-text {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
-#intro-text, #intro-text-tagline {
-    text-align: center;
+#intro-text,
+#intro-text-tagline {
+  text-align: center;
 }
 
 #intro-text-tagline {
-    margin-top: 40px;
-    font-weight: bold;
-    font-size: 20px;
+  margin-top: 40px;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 /* Containers */
 .container-wrapper-green {
-    background-color: #8cc63f;
-    color: white;
+  background-color: #8cc63f;
+  color: white;
 }
 
 .content-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 
 .container-wrapper-cities {
-    padding-bottom: 0px;
+  padding-bottom: 0px;
 }
 
-
-
 .container-wrapper-cities {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 /* Menu */
-#menu{
-    font-size: 110%;
-    list-style-type: none;
-    letter-spacing: 4px;
+#menu {
+  font-size: 110%;
+  list-style-type: none;
+  letter-spacing: 4px;
 }
 
 #menu li {
-    float: right;
-    margin-right: 30px;
+  float: right;
+  margin-right: 30px;
 }
 
-#logo, #menu{
-    line-height: 85px;
+#logo,
+#menu {
+  line-height: 85px;
 }
 
 #logo {
-    float: left;
-    font-size: 280%;
-    margin-left: 30px;
-    padding-bottom: 10px;
+  float: left;
+  font-size: 280%;
+  margin-left: 30px;
+  padding-bottom: 10px;
 }
- 
+
 #logo-cover {
-    width: 50px;
-    height: 50px;
-    background: url("../images/logo.png") no-repeat center center;
-    height:100%;
+  width: 50px;
+  height: 50px;
+  background: url("../images/logo.png") no-repeat center center;
+  height: 100%;
 }
 
 /* Functions */
 
 .function {
-    text-align: center;
-    margin-bottom: 40px;
+  text-align: center;
+  margin-bottom: 40px;
 }
 
 .function i {
-    margin-bottom: 20px;
-    font-size: 80px;
-    display: block;
+  margin-bottom: 20px;
+  font-size: 80px;
+  display: block;
 }
 
 /* Hero */
-#hero-image{
-    height:300px;
-    width: 100%;
-    background: url("../images/scooterheroedit.jpg") no-repeat center center;
-    background-size: cover;
-
+#hero-image {
+  height: 300px;
+  width: 100%;
+  background: url("../images/scooterheroedit.jpg") no-repeat center center;
+  background-size: cover;
 }
 
-#hero-outer{
-    height:300px;
-    width: 100%;
-    overflow:hidden;
-    position: relative;
+#hero-outer {
+  height: 300px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
 }
 
 /* Cities */
 #cities {
-    background: url("../images/scooter-cities.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
+  background: url("../images/scooter-cities.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
 }
 
 #cities div {
-    color: #fafafa;
-    background-color: rgba(0,0,0, .6);
-    width: 24%;
-    height: 200px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    margin: 8px;
-    margin-right: 8px;
+  color: #fafafa;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 24%;
+  height: 200px;
+  float: left;
+  padding: 30px 0 0 10px;
+  text-align: center;
+  margin: 8px;
+  margin-right: 8px;
 }
 
 i.fas.fa-city {
-    font-size: 30px;
-    padding: 22px;
+  font-size: 30px;
+  padding: 22px;
 }
 
 /* Footer */
-footer{
-    height: 150px;
+footer {
+  height: 150px;
 }
 
-.social-networks{
-    text-align: center;
+.social-networks {
+  text-align: center;
 }
 
 .social-networks li {
-    display:inline;
+  display: inline;
 }
 
 .social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #777777;
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #777777;
 }
 
 #telephone {
   text-align: center;
   font-weight: bold;
-  padding-bottom: 20px
+  padding-bottom: 20px;
 }
