@@ -1,9 +1,9 @@
-a:hover {
+.nav-text:hover {
   color: #8cc63f;
   text-decoration: none;
 }
 
-a {
+.nav-text {
   color: #515151;
   text-decoration: none;
 }
@@ -153,15 +153,6 @@ h2 {
   overflow: hidden;
 }
 
-.cities-contact {
-  background: url("../images/scooter-contactus-cities.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  overflow: hidden;
-}
-
 .cities div {
   color: #fafafa;
   background-color: rgba(0, 0, 0, 0.6);
@@ -285,6 +276,33 @@ footer {
 
 .telephone,
 .company {
+  color: #000000; 
+}
+
+.telephone-container,
+.company-container {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+ #telephone-link:hover {
+  color: #ffffff;
+  text-decoration: none;
+ }
+
+#company-link:hover {
+  color: #ffffff;
+  text-decoration: none;
+ }
+
+ #telephone-link,
+ #company-link {
+    color: #000000;
+ }
+
+ .telephone-link-container,
+.company-link-container {
   text-align: center;
   font-weight: bold;
   padding-bottom: 20px;
