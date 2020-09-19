@@ -14,9 +14,15 @@ I own full rights to these graphics.
 The hero image was a stock photo I purchased for this project from Adobe Stock.
 
 ## CSS Tricks
+Nav Bar Underline
 I used a trick found on w3schools to put a border on the bottom of a div to give an underline affect. I then used this with the active link css rule to apply a underline to nav bar item to show
 which page you were currently on.
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_navbar_border
+
+Collapsible list
+To get the collapsible list on the about us page I researched various techniques some used JavaScript and jQuery however these introduced problems into the site which I deemed more effort to fix
+than the value added. I ended removing these and opting for a pure CSS solution which I customised slightly to get the effect I was looking for. The orginal code is found below on Digital Ocean.
+https://www.digitalocean.com/community/tutorials/css-collapsible
 
 ## Challenges
 Comparison to the wireframes will show that I deviated from the sketches slightly with the content in each section. This is due to a delay in the launch of the business.
