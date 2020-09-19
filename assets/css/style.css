@@ -280,8 +280,8 @@ footer {
   color: #777777;
 }
 
-#telephone,
-#company {
+.telephone,
+.company {
   text-align: center;
   font-weight: bold;
   padding-bottom: 20px;
