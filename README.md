@@ -82,18 +82,13 @@ I have not found any bugs on the project.
 
 ### Speed Tests
 
-I ran speed tests on each page using [GTmetrix](https://gtmetrix.com/). Following this, I reduced all of the images on my website using [tinyPNG](https://tinypng.com/). I also replaced the [Lightbox jquery file](assets/javascript/lightbox-plus-jquery.min.js) with a compressed version. I then ran the speed tests again to check whether the performance of the website has improved.
+I ran speed tests on each page using [GTmetrix](https://gtmetrix.com/).
 
-Below are the before and after screenshots of the tests. The page sizes have reduced and the perfomance score for each page has improved:
+Below are screenshots of the tests:
 
-![Home page initial test](assets/images/speed-tests/home-initial-test.png)
-![Home page second test](assets/images/speed-tests/home-second-test.png)
-![Highlights page initial test](assets/images/speed-tests/highlights-initial-test.png)
-![Highlights page second test](assets/images/speed-tests/highlights-second-test.png)
-![Meet the Players page initial test](assets/images/speed-tests/meet-the-players-initial-test.png)
-![Meet the Players page second test](assets/images/speed-tests/meet-the-players-second-test.png)
-![Share page initial test](assets/images/speed-tests/share-initial-test.png)
-![Share page second test](assets/images/speed-tests/share-second-test.png)
+![Home page test](assets/images/speed-tests/home-test.png)
+![About Us page test](assets/images/speed-tests/aboutus-test.png)
+![Contact page test](assets/images/speed-tests/contact-test.png)
 
 ### Further Tests
 
