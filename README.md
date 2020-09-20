@@ -16,7 +16,7 @@ The project is designed to provide information to the public on what we do and w
 
 ## UX
 
-The website is aimed at ITFC fans so I envisage users will be a variety of age ranges. I have also used club colours in the navigation bar and footer. The navigation bar also features the club badge. On smaller screens, the navigation links compress behind a toggle button. The purpose of the website is to inform and entertain Ipswich Town fans. I have tried to achieve this by providing lots of written content but supplemented this with some embedded YouTube videos and images.
+The website is aimed at the public so I believe users will be a variety of age ranges. I have also used colours that match the green logo which was chosen to show E-Scooters are are clean alternative to fossil fuel transport options. The navigation bar also features the custom logo. On smaller screens, the navigation links compress behind a toggle button. The purpose of the website is to inform and entertain Ipswich Town fans.
 
 Users:
 
