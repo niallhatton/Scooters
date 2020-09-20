@@ -1,12 +1,4 @@
-.nav-text:hover {
-  color: #8cc63f;
-  text-decoration: none;
-}
 
-.nav-text {
-  color: #515151;
-  text-decoration: none;
-}
 
 .header-text {
   padding: 10px;
@@ -65,15 +57,22 @@
 }
 
 /* Menu */
-#menu {
-  font-size: 110%;
+
+.nav-text:hover {
+  color: #8cc63f;
+  text-decoration: none;
+}
+
+.nav-text {
+  color: #515151;
+  text-decoration: none;
+    font-size: 110%;
   list-style-type: none;
   letter-spacing: 4px;
 }
 
-#menu li {
-  float: right;
-  margin-right: 30px;
+.navbar-brand img {
+  height: 100px;
 }
 
 #logo,
@@ -81,23 +80,17 @@
   line-height: 85px;
 }
 
-#menu a.active {
+.navbar-nav a.active {
   border-bottom: 3px solid #8cc63f;
 }
 
-#logo {
-  float: left;
-  font-size: 280%;
-  margin-left: 30px;
-  padding-bottom: 10px;
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(140,198,63, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
-#logo-cover {
-  width: 50px;
-  height: 50px;
-  background: url("../images/logo.png") no-repeat center center;
-  height: 100%;
-}
+.custom-toggler.navbar-toggler {
+  border-color: rgb(140,198,63);
+} 
 
 /* Functions */
 
@@ -303,4 +296,14 @@ input[type="checkbox"] {
   text-align: center;
   font-weight: bold;
   padding-bottom: 20px;
+}
+
+/* Media Queries */
+
+@media (max-width: 992px){
+    .navbar-nav a.active {
+    border-bottom: 3px solid #8cc63f;
+    max-width: 20%;
+    }
+ 
 }

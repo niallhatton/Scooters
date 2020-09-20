@@ -25,24 +25,31 @@
     />
   </head>
   <body>
-    <div class="container">
-      <div id="logo">
-        <a href="index.html"><img src="assets/images/logo.png" alt="Logo of scooter and business tagline text" height="100px" width="150px" /></a>
-      </div>
-<nav>
-        <ul id="menu">
-          <li>
-            <a class="active text-uppercase nav-text" href="contact.html">Contact</a>
-          </li>
-          <li>
-            <a class="text-uppercase nav-text" href="about.html">About Us</a>
-          </li>
-          <li>
-            <a class="text-uppercase nav-text" href="index.html">Home</a>
-          </li>
-        </ul>
-      </nav>
+    <!-- Navigation -->
+<nav class="navbar navbar-expand-lg static-top">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+          <img src="assets/images/logo.png" alt="">
+        </a>
+        
+    <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-uppercase nav-text" href="index.html">Home<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-uppercase nav-text" href="about.html">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="active nav-link text-uppercase nav-text" href="contact.html">Contact</a>
+        </li>
+      </ul>
     </div>
+  </div>
+</nav>
     <section id="hero-outer">
       <div id="hero-image-contact-us"></div>
     </section>
@@ -165,5 +172,8 @@
       <div class="telephone-container"><a href="tel:+448002118029" class="telephone">0800 211 8029</a></div>
       <div class="company-container">ELH-IT Services Limited</div>
     </footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
   </body>
 </html>
