@@ -52,24 +52,11 @@ Users:
 
 ### Existing features
 
-- The Home page features a jumbotron with a zoom effect to draw attention to it. The jumbotron text and background image will inform users what the website is about so I have added the effect to ensure it catches the eye of the user. The effect works on all screensizes.
-- The shortcut icons on the Home page have a hover effect which both enlarges the icon but also inverts the colours. This draws attention to them and helps users know that they are clickable links.
-- The Highlights page contains a background section. This section enables users to learn more about the state the club was in in 1999-2000. Failing in the play-offs in the 3 previous seasons is partly what made the 1999-2000 promotion more dramatic and this provides users with that knowledge.
-- The Highlights page contains embedded YouTube videos of highlights of the three play-off matches. There are images of the games too. This enables users to experience the play-off matches.
-- The Highlights page also contains a report of each match which enables users to learn more about them.
-- The Meet the Players page contains a different visual effect; when player pictures are hovered over, they flip to show the player name. When football is broadcast on TV, player lines ups often feature images and some graphic effects so I wanted to add some sort of similar effect here. I also placed a football pitch in the background to make the page more visually appealing. This feature enables users to learn more about the key players involved in the matches.
-- When clicking on the player images on the Meet the Players page, a modal window opens up (Bootstrap was utilised for this feature). The modal contains more images of the player and more information about them.
-- Within the modals, a [Lightbox](https://www.lokeshdhakar.com/projects/lightbox2/) popout can be launched by clicking on any of the images. Users can then scroll through a handful of each player. I have used photos of the players from the 3 play-off matches to ensure they are relevant to the purpose of the website.
-- The Share page contains a form which enables users to share their memories and photos. This form is currently only posted to Code Institutes code dump.
-
-### Features for future implementation
-
-If I was to continue the development of this website, I would look to add:
-
-- A page for users to buy merchandise and memorabilia such as kits, matchday programmes, etc.
-- A "Your Memories" page containing the photos and memories that people have uploaded to the website.
-- A "What Happened Next" page which explains what happened to the team and the players after winning promotion.
-- More players to the Meet the Players page, possibly adding the full squad and manager. Time constraints meant I only focused on 6 players up to now.
+- On the Home page we feature a hero which is responsive. The image used is different on all three pages.
+- Navigation bar is responsive using a hamburger toggle button when used on small pages.
+- The About Us page contains a collapsible FAQ section which is entirely CSS based with some simple animation to make it appear to open and close smoothly.
+- Both the home page and contact page have a cities section which changes display to ensure responsiveness as do all other images using Bootstrap 4 img-fluid class.
+- The Contact page has a Bootstrap 4 form which is also responsive and validates the text entered in the email field and validation on the information using the Code Institute page [Code Institute Form Validation](https://formdump.codeinstitute.net/)
 
 ---
 
@@ -80,12 +67,10 @@ I used the following languages, frameworks and libraries to build this website:
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - HTML5 was used to code the content of the website.
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - CSS3 was used to style the content.
 - [Bootstrap](https://getbootstrap.com/) - Bootstrap was used to provide a grid structure, navigation toggle effect, navigation links on the Highlights page and multiple other styles by utilising Bootstrap classes such as margins, padding, allignment of text/objects, text decoration, etc.
-- [Lightbox](https://www.lokeshdhakar.com/projects/lightbox2/) - This was used to create a picture slideshow for each player on the Meet the Players page. The Lightbox function is launched from within each players modal. The entirety of the [Lightbox CSS library](assets/css/lightbox.css) was downloaded.
-- [FontAwesome](https://fontawesome.com/) - FontAwesome was used to insert icons into the webpage. These appear in the Home page as shortcut icons, in the footer as the social media links, on the Highlights page next to goalscorers and in the Meet the Players modals. I also replaced the Bootstrap navigation toggle icon with one from FontAwesome.
-- [Google Fonts](https://fonts.google.com/) - Google Fonts have been used to style the text in the website. The header contains the webpage name which has Merienda One font applied, Didact Gothic font is applied to headers and the navigation menu links and the rest of the text is Roboto font.
-- [FavIcon](https://www.favicon-generator.org/) - This webpage was used to create the small favicon which appears in the webpage tab. I used the football club logo which appears in the header.
-
-**Not used**: [Hover](https://ianlunn.github.io/Hover/) - Early on in the project, I did add this library thinking that I would utilise it to apply extra hover effects to various elements. However, as I developed the project, I found that using CSS hover effects was giving me the results I was looking to acheive. Thus I ended up removing this CSS library and HTML links from my project.
+- [Code Institute Form Validation](https://formdump.codeinstitute.net/) - This form dump was used to validate the form information.
+- [FontAwesome](https://fontawesome.com/) - FontAwesome was used to insert icons into the webpage. These appear in the Home page as function icons, in the footer as the social media links.
+- [Logo, FavIcon & Apple Icons](https://www.designcrowd.com/) - This site was used to source a graphics designer for the logo, favicon and Apple icons.
+- [Collapsible list](https://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_lists_collapsible) - The code example here was used to create the collapsible FAQ section on the About page.
 
 ---
 
