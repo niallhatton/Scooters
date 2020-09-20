@@ -20,13 +20,18 @@ The website is aimed at ITFC fans so I envisage users will be a variety of age r
 
 Users:
 
-- As a user, I'd like to learn more about the state of the club in 1999-2000.
-- As a user, I'd like to learn more about the play-off matches.
-- As a user, I'd like to watch highlights and see photos to experience the play-off matches.
-- As a user, I'd like to find out more about some of the players involved in the matches.
-- As a user, if I was at any of the matches, I'd like to share some of my memories and photos.
+- As a user, I'd like to learn more about what an E-Scooter Fleet Managment company is.
+- As a user, I'd like to learn more about the E-Scooters and how they are charged.
+- As a user, I'd like to learn more about how E-Scooters are maintained.
+- As a user, I'd like to learn more about how E-Scooters are tracked and recovered
+- As a user, I'd like to learn more about how E-Scooters are distributed across the cities.
+- As a user, I want an easy way to get in touch to ask further questions or send a general message.
 
 [Click here to see my full Wireframe](assets/wireframes/ZoomWireframes.pdf)
+
+**Wirefram Deviation** Comparison to the wireframes will show that I deviated from the sketches slightly with the content in each section. This is due to a delay in the launch of the business.
+- Orginally I had planned to already be running the business by the time this project was completed, however due to delays outside my control the launch has not taken place.
+- Cities were unconfirmed and statistics such as number of scooters in each area to hand and model of scooters deployed. This meant having a section dedicated to statistics did not make sense. 
 
 **Home page**: Since the name of the website doesn't make it immediately clear that it is for ITFC fans, I have tried to grab users attention by using a jumbotron with a background image of Ipswich players celebrating promotion. This should grab users attention. I have ensured that the centre of the image is shown on all screen sizes as this is where the captain is seen holding the play-off trophy. Beneath this is an introduction section which lets users know the purpose of the website. There are links to the 3 other pages with a brief description of each - the purpose of this is to provide information to users about what they can find on the website through and an alternate link to reach each page (along with the navigation bar). These links span horizontally on large screens and gradually move to a vertical alignment as the screen width gets smaller - this is achieved using Bootstrap's grid system. I also applied a shadow effect to them to make them standout from the other content on the page.
 
