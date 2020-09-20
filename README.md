@@ -44,7 +44,7 @@ Users:
 
 **Contact**: Again navbar and hero are resused with alternative hero image. Following this is the contact form created using Bootstrap 4 features, this form is validated using the Code Institute validation tool. It features four form controls, name, email, message and a button. The button is plain as I did not want to overuse the green too much. Below the form is a section showing contact information with differnt styling to ensure good contract with the green background. The information in this section features clickable links to phone and email. Following this is the cities section as seen on the home page with the standard footer finishing the page.
 
-![Responsive image with many different monitors](assets/images/responsive.png)
+![Responsive image with many different monitors](assets/images/responsive.jpg)
 
 ---
 
