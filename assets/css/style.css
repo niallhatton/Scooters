@@ -66,8 +66,8 @@
 }
 
 .custom-toggler.navbar-toggler {
-  border-color: rgb(140,198,63);
-} 
+  border-color: rgb(140, 198, 63);
+}
 
 /* Introduction */
 
@@ -95,7 +95,7 @@
 
 .function i {
   margin-bottom: 20px;
-  font-size: 5.0rem;
+  font-size: 5rem;
   display: block;
 }
 
@@ -156,7 +156,7 @@ h3.function-title {
 }
 
 .city-name-text {
-    font-size: 1.5625rem
+  font-size: 1.5625rem;
 }
 
 i.fas.fa-city {
@@ -258,7 +258,7 @@ input[type="checkbox"] {
 
 .telephone,
 .company {
-  color: #000000; 
+  color: #000000;
 }
 
 .telephone-container,
@@ -268,22 +268,22 @@ input[type="checkbox"] {
   padding-bottom: 20px;
 }
 
- #telephone-link:hover {
+#telephone-link:hover {
   color: #ffffff;
   text-decoration: none;
- }
+}
 
 #company-link:hover {
   color: #ffffff;
   text-decoration: none;
- }
+}
 
- #telephone-link,
- #company-link {
-    color: #000000;
- }
+#telephone-link,
+#company-link {
+  color: #000000;
+}
 
- .telephone-link-container,
+.telephone-link-container,
 .company-link-container {
   text-align: center;
   font-weight: bold;
@@ -292,18 +292,18 @@ input[type="checkbox"] {
 
 /* Media Queries */
 
-@media (max-width: 992px){
-    .navbar-nav a.active {
+@media (max-width: 992px) {
+  .navbar-nav a.active {
     border-bottom: 3px solid #8cc63f;
     max-width: 20%;
-    }
+  }
 }
 
-@media (max-width: 1393px){
-    .cities div {
+@media (max-width: 1393px) {
+  .cities div {
     width: 100%;
     clear: both;
     height: 200px;
     padding: 15px;
-    }
+  }
 }
