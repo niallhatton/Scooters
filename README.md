@@ -1,4 +1,4 @@
-![Zoom logo](./assets/images/logosmall.png)
+![Zoom logo](./assets/images/logos-mall.png)
 
 ***
 
