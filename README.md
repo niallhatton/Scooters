@@ -6,11 +6,11 @@
 
 My project is to support a new business for E-Scooter Fleet management. The business will be deploying E-Scooters around the UK partly in response to COVID-19. UK goverment wanted a solution to public transport overcrowding and social distancing.
 
-The project is designed to provide information to the public on what we do and why do it. Already there is a negative feeling about the addition of scooters due to the illegal use of personal E-Scooters, we intend to provide the facts and help show how E-Scooters are a good thing for the public. Includinf the home page I have focused on 3 pages:
+The project is designed to provide information to the public on what we do and why do it. Already there is a negative feeling about the addition of scooters due to the illegal use of personal E-Scooters, we intend to provide the facts and help show how E-Scooters are a good thing for the public. Including the home page I have focused on 3 pages:
 
 - Home - Here I have given an introduction to what the company does, what we do and where we do it.
 - About - This page goes into more detail with an interactive/collapsible FAQ style section to allow the user to read answers to the most common questions we recieve.
-- Contact Us - Users have the oppertunity to fill out a contact for to send us a message or question and view our contact information.
+- Contact Us - Users have the oppertunity to fill out a contact form to send us a message or question and view our contact information.
 
 ---
 
