@@ -1,10 +1,5 @@
 contact form code, explain ref in readme
 expandable text code, explain ref in readme
-style contact us page
-adjust the images on home page intro...maybe
-Responsiveness
-code comments css and html
-separte css code by page part etc
 code validation
 Add iphone/ipad icons apple icons as image with responsiveness screenshots to an image
 google analytics code, explain ref in readme
