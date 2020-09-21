@@ -57,12 +57,14 @@ Users:
 - The About Us page contains a collapsible FAQ section which is entirely CSS based with some simple animation to make it appear to open and close smoothly.
 - Both the home page and contact page have a cities section which changes display to ensure responsiveness as do all other images using Bootstrap 4 img-fluid class.
 - The Contact page has a Bootstrap 4 form which is also responsive and validates the text entered in the email field and validation on the information using the Code Institute page [Code Institute Form Validation](https://formdump.codeinstitute.net/)
+- Google Analytics code has been added to allow extensive tracking of website vistor information.
+- An 0800 number is used across all pages in the footer, this was purchased and linked to a SIP softphone on my mobile phone.
 
 ---
 
-## Technologies Used
+## Technologies & Services Used
 
-I used the following languages, frameworks and libraries to build this website:
+I used the following languages, frameworks, libraries and external services to build this website:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - HTML5 was used to code the content of the website.
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - CSS3 was used to style the content.
@@ -70,7 +72,9 @@ I used the following languages, frameworks and libraries to build this website:
 - [Code Institute Form Validation](https://formdump.codeinstitute.net/) - This form dump was used to validate the form information.
 - [FontAwesome](https://fontawesome.com/) - FontAwesome was used to insert icons into the webpage. These appear in the Home page as function icons, in the footer as the social media links.
 - [Logo, FavIcon & Apple Icons](https://www.designcrowd.com/) - This site was used to source a graphics designer for the logo, favicon and Apple icons.
-- [Collapsible list](https://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_lists_collapsible) - The code example here was used to create the collapsible FAQ section on the About page.
+- [Collapsible list](https://www.digitalocean.com/community/tutorials/css-collapsible) - The code example here was used to create the collapsible FAQ section on the About page and then was customised to suit the needs of the site.
+- [Google Analytics](https://analytics.google.com/) - The code used was supplied from the Google Analytics dashboard and is specific to this site.
+- [0800 Phone Number](http://www.ttnc.co.uk/) - An 0800 number was purchased from TTNC.
 
 ---
 
@@ -78,7 +82,7 @@ I used the following languages, frameworks and libraries to build this website:
 
 ### Bugs
 
-I only bug I have found is the margin on the right hand side of the cities section. This was tricky and I was unable to find a fix for this. If I was to develop this project further in the futire I would put a lot of time into fixing this. I adjusted margins and paddings and when fixing it on one size screen it would make it worse on others.
+The only bug I have found is the margin on the right hand side of the cities section. This was tricky and I was unable to find a fix for this. If I was to develop this project further in the futire I would put a lot of time into fixing this. I adjusted margins and paddings and when fixing it on one size screen it would make it worse on others.
 
 ![City Margin Bug](assets/images/cities-bug.png)
 
@@ -100,38 +104,31 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
 
    1. All links tested. Internal links all work. There are no external links to test but email and telephone links were tested and work on all devices. Telephone correctly will prompt to call on a phone and email opens the default mail client on the device.
    2. The page is responsive and looks good on all screen sizes.
-   3. The user is able to quickly see that the website is related to Ipswich Town by way of the jumbotron background image and on larger screens, the ITFC logo in the header.
-   4. The introduction section underneath the jumbotron give context about the website meaning users are quickly able to identify if the website is of interest to them.
-   5. The shortcuts links underneath the introduction ensure users can identify what content is available and how to access it.
+   3. The user is able to quickly see that the website is about E-Scooters by way of the hero background image and the logo.
+   4. The introduction section underneath the hero gives information in a clear way to detail the site and reinforce message. This is also supported by relevant images of E-Scooters in use.
+   5. The function read more links underneath each of the function navigate to the about us page where more information is provided.
+   6. The nav bar was test on all screen sizes to ensure it shirnks as expected.
+   7. The social icons display and link correctly.
+   8. The cities section display and shrink while maintaining responsiveness.
+   9. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
+
+2. About Us page:
+
+   1. All links tested. Internal links all work. There are no external links to test but email and telephone links were tested and work on all devices. Telephone correctly will prompt to call on a phone and email opens the default mail client on the device.
+   2. The page is responsive and looks good on all screen sizes.
+   3. The collapsible FAQ functions section works well on all screen sizes.
+   4. The nav bar was test on all screen sizes to ensure it shirnks as expected.
+   5. The social icons display and link correctly.
    6. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
 
-2. Highlights page:
+3. Contact page:
 
-   1. All links tested. Internal links all work. External links all work and open in new window.
-   2. Several internal links have been added to enable users to navigate content on the page more easily. Some reports are quite long so these links were added to avoid users having to scroll up and down the page and thus improve user experience.
-   3. During testing of the page, I noticed that the background text would align left once the Bootstrap small screen size was reached whilst the text in the highlights section below would only align left once Bootstraps large screen was reached. To ensure consitent flow of the page, I ensured that all text alignments on the page changed at the same screen size; up to small breakpoint (576px) the text is center-aligned and above this, aligns left. This is the same breakpoint at which images are centered on their own or floated next to the text. This consistency will improve user experience.
-   4. Having made the above fix, I am confident the page is responsive and looks good on all screen sizes.
-   5. The background section and match reports enable users to learn more about the play-off matches.
-   6. The YouTube videos and images enable users to experience the play-off matches.
-   7. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
-
-3. Meet the Players page:
-
-   1. All links tested. Internal links all work. External links all work and open in new window.
+   1. All links tested. Internal links all work. There are no external links to test but email and telephone links were tested and work on all devices. Telephone correctly will prompt to call on a phone and email opens the default mail client on the device.
    2. The page is responsive and looks good on all screen sizes.
-   3. All modals open as expected and close as expected when clicking either the cross button, close button or clicking outside of the modal.
-   4. All images in the modal open the Lightbox at the correct part of the slideshow.
-   5. The contents of the modals enable users to learn more about some of the players and they can read further by opening their Wikipedia page (in a new window) using the link provided.
-   6. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
-
-4. Share page:
-
-   1. All links tested. Internal links all work. External links all work and open in new window.
-   2. The page is responsive and looks good on all screen sizes.
-   3. The form contains two required fields, name and email address. If either of these are blank when the user tries to submit the form, default error messages appear.
-   4. If the user doesn't enter a valid email address, the default error message notifies them.
-   5. The Reset button behaves as expected.
-   6. The Send button posts the form data to Code Institutes form dump page as expected.
+   3. The contact form was tested with form dump and works well on all screen sizes.
+   4. The nav bar was test on all screen sizes to ensure it shirnks as expected.
+   5. The social icons display and link correctly.
+   6. The cities section display and shrink while maintaining responsiveness.
    7. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
 
 5. style.css
@@ -141,7 +138,19 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
 
 ## Deployment
 
-This webpage has been deployed to [GitHub pages](https://lukegarnham.github.io/One-Day-In-May-MS1/).
+This webpage has been deployed to [GitHub pages](https://niallhatton.github.io/Scooters/) for the purposes of the project/learning.
+
+The domain [Zoom Scooters](http://www.zoomscooter.co.uk/) was purchased for this project using gandi.net, DNS records are also configured here. A sub domain [Zoom Scooters](http://dev.zoomscooter.co.uk/) was used as a staging site with the main domain hosting a holding page while development was taken place.
+
+The site is hosted in Azure cloud on a custom VM I manage. DNS records in [Gandi](http://gandi.net/Gandi) are pointing to the Azure VM public IP address 168.62.210.1.
+
+The Azure VM is running Centos 7 with Webmin/Virtualmin for hosting software custom installed. Webmin allows for a GUI to easily create multiple hosting for each site.
+
+**Azure VM Specification** 
+The VM is a Standard B2s (2 vcpus, 4 GiB memory) running Linux (centos 7.7.1908) the location of this VM is in the West US datacenter. This is because I have other services in that location and it was easier to deploy alongside existing VM's into the same resource group.
+
+**Azure VM Control Panel Software**
+[Virtualmin](https://virtualmin.com/) - Open Source Web Hosting and Cloud Control Panels. Virtual hosts/servers have been created for the main domain and the development subdomain.
 
 ---
 
@@ -149,41 +158,43 @@ This webpage has been deployed to [GitHub pages](https://lukegarnham.github.io/O
 
 ### Content
 
-Where code has been copied from an external source, I have referenced this in the code through comments. In many cases, the copied snippet has been amended from the source in order to achieve the desired result for this project. I have listed the various sources below as well.
+Where code has been copied from an external source it has been documented here. I also used code from my other projects, these include Love Running, Whiskey Drop and Resume.
 
 **Head**
 
 - All CDN links copied from the respective sources - see links above in the **"Technologies Used"** section.
 - The FavIcon code snippet was taken from [Digital Ocean](https://www.digitalocean.com). I viewed the source of the home page and copied the code to my site. The Favicon image was created along with my logo from a designer sourced from [Design Crowd](www.designcrowd.com)
 - The Apple icons for use on iPhone and iPad code snippet was taken from [Digital Ocean](https://www.digitalocean.com). I viewed the source of the home page and copied the code to my site. The Apple icon image was created along with my logo from a designer sourced from [Design Crowd](www.designcrowd.com)
+- The Google Analytics code was provided by the Google dashboard [Google Analytics](https://analytics.google.com/). 
 
 **Header**
 
 - In the header, the nav element code used to create a toggle menu on small screen sizes was copied from [Bootstrap](https://getbootstrap.com/docs/4.5/components/navbar/#nav).
 
-**Highlights page**
+**About Us**
 
-- On the Highlights page, I created tabs to separate the highlights of the 3 matches. I copied code from [Bootstrap](https://getbootstrap.com/docs/4.5/components/navs/#javascript-behavior) to achieve this.
+- On the About Us page I added collapsible unordered lists for the FAQ section the basis of this code was taken from [Collapsible list](https://www.digitalocean.com/community/tutorials/css-collapsible)
 
-**Meet the Players**
+**Contact**
 
 - A portion of HTML code and CSS code was copied from [this website](https://www.w3schools.com/howto/howto_css_flip_card.asp) in order to create the flip-card effect on the player images. Some of the style rules were amended to suit the desired needs of this webpage.
 - The code for the player modals was copied from [Bootstrap](https://getbootstrap.com/docs/4.0/components/modal/#vertically-centered). The actual contents of the modals is original work and has not been copied.
 - The [Lightbox CSS library](assets/css/lightbox.css) and [Lightbox jquery file](assets/javascript/lightbox-plus-jquery.min.js) were downloaded in their entirety from [this website](https://www.lokeshdhakar.com/projects/lightbox2/#getting-started).
 
+**Readme Template**
+
+- I used a readme as a template from another students project which was provided to me by my mentor. I then edited it for my project. [Luke Garnham Readme Template](https://github.com/LukeGarnham/One-Day-In-May-MS1) 
+
 ### Media
-
-**YouTube**
-
-- The YouTube videos of the 3 play-off matches are all ones recently posted by the official ITFC YouTube channel recently to mark the 20 year anniversary.
-  1. [Game 1](https://www.youtube.com/watch?v=uzy3y_B1LJ0)
-  2. [Game 2](https://www.youtube.com/watch?v=vYSh2FyACbM)
-  3. [Game 3](https://www.youtube.com/watch?v=K0NsebNs1Cw)
 
 **Images**
 
-- The images used in the project have been found using Google searches. Unfortunately, there is no freely available repository for the images required. I found a series of high quality images on [Getty Images](https://www.gettyimages.co.uk/) all of which have a watermark on unless they are purchased. This meant some of the images used in the website are not high resolution/high quality though I did try to use the best images freely available.
-- Some images were found in recent news articles which were published to mark the 20 year anniversary of the teams promotion.
-  1. [Article 1](https://www.twtd.co.uk/ipswich-town-news/38311)
-  2. [Article 2](https://www.eadt.co.uk/sport/ipswich-town-v-bolton-play-off-semi-final-1-6652862)
-  3. [Article 3](https://www.eadt.co.uk/sport/ipswich-town-win-at-wembley-may-2000-1-6675069)
+- The images used in the project have been found on Adobe Stock images. The images are high resolution and I edited them to suit what I required. I own a license for all the images used
+- Links to the images on Adobe Stock below.
+  1. [Hero Image 1](https://stock.adobe.com/uk/images/city-electric-scooters-to-rent-parked/267823007?prev_url=detail)
+  2. [Hero & Cities Image](https://stock.adobe.com/uk/images/woman-riding-on-scooter-in-park-in-summer/373479260?prev_url=detail)
+  3. [Hero Image 3](https://stock.adobe.com/uk/images/modern-ity-transport-four-electric-scooters-is-parked-on-the-street-of-the-city/272027771?prev_url=detail)
+  4. [Intro Image 1](https://stock.adobe.com/uk/images/close-up-of-electric-scooter-on-city-street-outdoor-ecology-concept/334265033?prev_url=detail)
+  5. [Intro Image 2](https://stock.adobe.com/uk/images/crop-man-riding-electric-scooter/281114978?prev_url=detail)
+
+

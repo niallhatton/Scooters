@@ -1,14 +1,5 @@
-contact form code, explain ref in readme
-expandable text code, explain ref in readme
 code validation
-Add iphone/ipad icons apple icons as image with responsiveness screenshots to an image
-google analytics code, explain ref in readme
 image links for adobe stock
 code tidy up and review bad code
 last beutify code (alt shift F)
-Readme file readme file
-Review exam critera, ref each on readme
-Review other students projects
-Deploy to azure and github, explain ref in readme
 remove landing page
-0800 number , explain ref in readme
