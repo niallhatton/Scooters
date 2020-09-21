@@ -152,6 +152,8 @@ The VM is a Standard B2s (2 vcpus, 4 GiB memory) running Linux (centos 7.7.1908)
 **Azure VM Control Panel Software**
 [Virtualmin](https://virtualmin.com/) - Open Source Web Hosting and Cloud Control Panels. Virtual hosts/servers have been created for the main domain and the development subdomain.
 
+![Responsive image with many different monitors](assets/images/azure-vm.png)
+
 ---
 
 ## Credits
