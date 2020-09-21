@@ -110,7 +110,7 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
    6. The nav bar was test on all screen sizes to ensure it shirnks as expected.
    7. The social icons display and link correctly.
    8. The cities section display and shrink while maintaining responsiveness.
-   9. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
+   9. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
 
 2. About Us page:
 
@@ -119,7 +119,7 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
    3. The collapsible FAQ functions section works well on all screen sizes.
    4. The nav bar was test on all screen sizes to ensure it shirnks as expected.
    5. The social icons display and link correctly.
-   6. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
+   6. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
 
 3. Contact page:
 
@@ -129,7 +129,7 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
    4. The nav bar was test on all screen sizes to ensure it shirnks as expected.
    5. The social icons display and link correctly.
    6. The cities section display and shrink while maintaining responsiveness.
-   7. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/)
+   7. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
 
 5. style.css
    1. 6. Code has been successfully tested through the [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
