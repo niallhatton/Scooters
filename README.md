@@ -29,7 +29,7 @@ Users:
 
 [Click here to see my full Wireframe](assets/wireframes/ZoomWireframes.pdf)
 
-**Wirefram Deviation**: Comparison to the wireframes will show that I deviated from the sketches slightly with the content in each section. This is due to a delay in the launch of the business.
+**Wireframe Deviation**: Comparison to the wireframes will show that I deviated from the sketches slightly with the content in each section. This is due to a delay in the launch of the business.
 - Orginally I had planned to already be running the business by the time this project was completed, however due to delays outside my control the launch has not taken place.
 - Cities were unconfirmed and statistics such as number of scooters in each area to hand and model of scooters deployed. This meant having a section dedicated to statistics did not make sense. 
 - I considered doing the wireframs again after the site was completed however I felt this was disingenuous in nature and would not accurately show the true progression of the UX design process. I do feel however the overall UX design intentions were kept and achieved. 
@@ -110,7 +110,7 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
    6. The nav bar was test on all screen sizes to ensure it shirnks as expected.
    7. The social icons display and link correctly.
    8. The cities section display and shrink while maintaining responsiveness.
-   9. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
+   9. Code has been successfully tested through [Markup Validator](https://validator.w3.org/)
 
 2. About Us page:
 
@@ -119,7 +119,7 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
    3. The collapsible FAQ functions section works well on all screen sizes.
    4. The nav bar was test on all screen sizes to ensure it shirnks as expected.
    5. The social icons display and link correctly.
-   6. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
+   6. Code has been successfully tested through [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
 
 3. Contact page:
 
@@ -129,10 +129,10 @@ My aim was for all pages to be around 80% on page speed and YSlow scores which a
    4. The nav bar was test on all screen sizes to ensure it shirnks as expected.
    5. The social icons display and link correctly.
    6. The cities section display and shrink while maintaining responsiveness.
-   7. Code has been successfully tested through the [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
+   7. Code has been successfully tested through [Markup Validator](https://validator.w3.org/) no errors found only warnings which I do not believe to a problem.
 
 5. style.css
-   1. 6. Code has been successfully tested through the [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+   1. 6. Code has been successfully tested through [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 ---
 
