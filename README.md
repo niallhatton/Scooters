@@ -196,5 +196,8 @@ Where code has been copied from an external source it has been documented here. 
   3. [Hero Image 3](https://stock.adobe.com/uk/images/modern-ity-transport-four-electric-scooters-is-parked-on-the-street-of-the-city/272027771?prev_url=detail)
   4. [Intro Image 1](https://stock.adobe.com/uk/images/close-up-of-electric-scooter-on-city-street-outdoor-ecology-concept/334265033?prev_url=detail)
   5. [Intro Image 2](https://stock.adobe.com/uk/images/crop-man-riding-electric-scooter/281114978?prev_url=detail)
+ 
+ - As the logo, favicon and apple icons are a private project I am unable to link to the images.
+ 
 
 
