@@ -1,5 +1,0 @@
-code validation
-image links for adobe stock
-code tidy up and review bad code
-last beutify code (alt shift F)
-remove landing page
