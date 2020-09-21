@@ -78,7 +78,9 @@ I used the following languages, frameworks and libraries to build this website:
 
 ### Bugs
 
-I have not found any bugs on the project.
+I only bug I have found is the margin on the right hand side of the cities section. This was tricky and I was unable to find a fix for this. If I was to develop this project further in the futire I would put a lot of time into fixing this. I adjusted margins and paddings and when fixing it on one size screen it would make it worse on others.
+
+![City Margin Bug](assets/images/cities-bug.png)
 
 ### Speed Tests
 
@@ -90,11 +92,13 @@ Below are screenshots of the tests:
 ![About Us page test](assets/images/speed-tests/aboutus-test.png)
 ![Contact page test](assets/images/speed-tests/contact-test.png)
 
+My aim was for all pages to be around 80% on page speed and YSlow scores which all pages were apart from the home page at 79% which I deemed OK.
+
 ### Further Tests
 
 1. Home page:
 
-   1. All links tested. Internal links all work. External links all work and open in new window.
+   1. All links tested. Internal links all work. There are no external links to test but email and telephone links were tested and work on all devices. Telephone correctly will prompt to call on a phone and email opens the default mail client on the device.
    2. The page is responsive and looks good on all screen sizes.
    3. The user is able to quickly see that the website is related to Ipswich Town by way of the jumbotron background image and on larger screens, the ITFC logo in the header.
    4. The introduction section underneath the jumbotron give context about the website meaning users are quickly able to identify if the website is of interest to them.
