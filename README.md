@@ -169,17 +169,11 @@ Where code has been copied from an external source it has been documented here. 
 
 **Header**
 
-- In the header, the nav element code used to create a toggle menu on small screen sizes was copied from [Bootstrap](https://getbootstrap.com/docs/4.5/components/navbar/#nav).
+- In the header, the nav element code used to create a toggle menu on small screen sizes was copied from [Start Bootstrap](https://startbootstrap.com/snippets/navbar-logo/). The code to change the colour was taken from [Code Ply](https://www.codeply.com/go/4FdZGlPMNV)
 
 **About Us**
 
 - On the About Us page I added collapsible unordered lists for the FAQ section the basis of this code was taken from [Collapsible list](https://www.digitalocean.com/community/tutorials/css-collapsible)
-
-**Contact**
-
-- A portion of HTML code and CSS code was copied from [this website](https://www.w3schools.com/howto/howto_css_flip_card.asp) in order to create the flip-card effect on the player images. Some of the style rules were amended to suit the desired needs of this webpage.
-- The code for the player modals was copied from [Bootstrap](https://getbootstrap.com/docs/4.0/components/modal/#vertically-centered). The actual contents of the modals is original work and has not been copied.
-- The [Lightbox CSS library](assets/css/lightbox.css) and [Lightbox jquery file](assets/javascript/lightbox-plus-jquery.min.js) were downloaded in their entirety from [this website](https://www.lokeshdhakar.com/projects/lightbox2/#getting-started).
 
 **Readme Template**
 
