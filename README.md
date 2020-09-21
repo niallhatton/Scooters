@@ -30,7 +30,7 @@ Users:
 [Click here to see my full Wireframe](assets/wireframes/ZoomWireframes.pdf)
 
 **Wireframe Deviation**: Comparison to the wireframes will show that I deviated from the sketches slightly with the content in each section. This is due to a delay in the launch of the business.
-- Orginally I had planned to already be running the business by the time this project was completed, however due to delays outside my control the launch has not taken place.
+- Originally I had planned to already be running the business by the time this project was completed, however due to delays outside my control the launch has not taken place.
 - Cities were unconfirmed and important statistics were unavailable. This meant having a section dedicated to statistics did not make sense. 
 - I considered doing the wireframes again after the site was completed however I felt this was disingenuous in nature and would not accurately show the true progression of the UX design process. I do feel however the overall UX design intentions were kept and achieved. 
 
